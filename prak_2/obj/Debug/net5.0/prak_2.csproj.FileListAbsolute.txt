@@ -1,0 +1,12 @@
+C:\Users\krist\source\repos\prak_2\prak_2\bin\Debug\net5.0\prak_2.deps.json
+C:\Users\krist\source\repos\prak_2\prak_2\bin\Debug\net5.0\prak_2.dll
+C:\Users\krist\source\repos\prak_2\prak_2\bin\Debug\net5.0\ref\prak_2.dll
+C:\Users\krist\source\repos\prak_2\prak_2\bin\Debug\net5.0\prak_2.pdb
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\prak_2.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\prak_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\prak_2.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\prak_2.AssemblyInfo.cs
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\prak_2.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\prak_2.dll
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\ref\prak_2.dll
+C:\Users\krist\source\repos\prak_2\prak_2\obj\Debug\net5.0\prak_2.pdb
